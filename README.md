@@ -1,4 +1,4 @@
-Implementation of a Five-Stage Pipelined CPU
+Implementation of a Five-Stage Pipelined Central Processing Unit (CPU)
 
 (1) Instruction Fetch (IF)<br>
 (2) Instruction Decode (ID)<br>
