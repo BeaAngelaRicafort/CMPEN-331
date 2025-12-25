@@ -7,5 +7,5 @@ Implementation of a Five-Stage Pipelined CPU
 (5) Writeback (WB)<br>
 
 Lab 3: IF, ID<br>
-Lab 4: 
-Lab 5: 
+Lab 4: EXE, MEM<br>
+Lab 5: WB
