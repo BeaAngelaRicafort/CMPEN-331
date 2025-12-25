@@ -12,8 +12,8 @@ module InstructionMemory(
     reg [31:0] mem [63:0];                  // 2D Array: 64 Rows of 32-Bit Instructions
     
     initial begin
-        mem[25] = 32'h8C220000;             // Initializes Memory 25 to 0x8C220000 | 32'h = 32-Bit Hexadecimal
-        mem[26] = 32'h8C230004;             // Initializes Memory 26 to 0x8C230004 | 32'h = 32-Bit Hexadecimal
+        mem[25] = 32'h8C220000;             // lw $v0, 00($at)
+        mem[26] = 32'h8C230004;             // lw $v1, 04($at)
     end 
     
     // Extracts Bits 2-7 from Program Counter | Bits 2-7: Divides PC Value by 4
