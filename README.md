@@ -1,11 +1,11 @@
 Implementation of a Five-Stage Pipelined CPU
 
-(1) Instruction Fetch (IF)
-(2) Instruction Decode (ID)
-(3) Execute (EXE)
-(4) Memory (MEM)
-(5) Writeback (WB)
+(1) Instruction Fetch (IF)<br>
+(2) Instruction Decode (ID)<br>
+(3) Execute (EXE)<br>
+(4) Memory (MEM)<br>
+(5) Writeback (WB)<br>
 
-Lab 3: IF, ID
+Lab 3: IF, ID<br>
 Lab 4: 
 Lab 5: 
